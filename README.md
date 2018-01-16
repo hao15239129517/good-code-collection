@@ -1,2 +1,1 @@
-# good-code-collection
-好的项目代码收集js、C#、Python、PHP等
+browser.js：郑州警民通微信公众号js、判断浏览器，不是微信端返回请在微信客户端打开连接页面
